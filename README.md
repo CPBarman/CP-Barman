@@ -7,7 +7,7 @@
 <h1 align="center">Chaitonna Prosad Barman</h1>
 
 <h3 align="center">
-Physics Enthusiast | Embedded Systems | Scientific Computing
+Physics | Embedded Systems | Scientific Computing
 </h3>
 
 ---
