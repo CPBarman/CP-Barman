@@ -1,4 +1,4 @@
-</p>![banner jpg](https://github.com/user-attachments/assets/1eb3b4ee-bd93-42c8-96f1-dc401366b67e)
+
 <p align="center">
   <img src="banner.jpg" alt="Chaitonna Prosad Barman Banner" width="100%">
 
