@@ -1,3 +1,10 @@
+<h1 align="center">
+  Chaitonna Prosad Barman
+  <img src="assets/butterfly.gif" width="120" alt="Flying Butterfly">
+</h1>
+
+
+
 <p align="center">
   <img src="banner.jpg" alt="Chaitonna Prosad Barman Banner" width="100%">
 
