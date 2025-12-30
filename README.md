@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="banner.jpg" alt="Chaitonna Prosad Barman Banner" width="100%">
-
+  <img src="github_banner_1280x640.jpg" alt="Chaitonna Prosad Barman Banner" width="1280">
+</p>
 
 
 <h1 align="center">Chaitonna Prosad Barman</h1>
