@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github_banner_1280x640.jpg" alt="Chaitonna Prosad Barman Banner" width="1280">
+  <img src="banner.jpg" alt="Chaitonna Prosad Barman Banner" width="1280">
 </p>
 
 
