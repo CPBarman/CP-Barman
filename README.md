@@ -32,8 +32,9 @@ especially in computational and embedded domains.
   - Physics
   - Mathematics
 
+# 💻 C Programming  
 - 🐍 Python  
-- 💻 C Programming  
+
 
 ---
 
