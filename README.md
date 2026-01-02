@@ -21,14 +21,16 @@ especially in computational and embedded domains.
 
 ## 🛠️ Skills
 
-- 📐 LaTeX  
-- 🔌 Embedded Systems
-  <p • Embedded C >
-  <P   • 8051 Microcontroller
-       • AVR (ATmega series)
-       • GPIO, Timer, Interrupt
-       • UART, SPI, I2C
-   </p>
+- 📐 LaTeX
+  
+## 🔧 Embedded Systems
+- Embedded C  
+- 8051 Microcontroller  
+- AVR (ATmega series)  
+- GPIO, Timers, Interrupts  
+- UART, SPI, I2C  
+
+
 - 🐍 Python  
 - 💻 C Programming  
 
