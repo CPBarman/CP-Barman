@@ -23,12 +23,12 @@ especially in computational and embedded domains.
 
 - 📐 LaTeX  
 - 🔌 Embedded Systems
-       • Embedded C
-       • 8051 Microcontroller
+  <p • Embedded C >
+  <P   • 8051 Microcontroller
        • AVR (ATmega series)
        • GPIO, Timer, Interrupt
        • UART, SPI, I2C
- 
+   </p>
 - 🐍 Python  
 - 💻 C Programming  
 
